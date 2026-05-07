@@ -1,0 +1,1 @@
+export default function Dashboard(){return <div className="glass-card p-6"><h2 className="text-2xl font-bold">Dashboard</h2><p className="mt-2 text-slate-300">Manage your passwords and student aggregation analytics securely.</p></div>}
